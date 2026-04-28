@@ -10,11 +10,11 @@ Project Workflow
 5. Enhanced the final visual in Canva by adding country flags and the Paris 2024 Olympics logo.
 
 Tools/Resources Used
-- Olympics Official Website  
-- Microsoft Excel
-- Power BI
-- Color-Hex
-- Canva
+- Olympics Official Website (Data Source)
+- Microsoft Excel (Data Preparation)
+- Power BI (Data Visualization)
+- Canva (Data Visualization)
+- Color-Hex (Color Palette)
 
 Key Insight
 - USA dominates overall with 126 total medals, far ahead of all other teams.
