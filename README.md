@@ -29,6 +29,4 @@ Dataset Source
 
 Color Palette (Gold, Silver, Bronze)
 - Color-Hex
-    - [https://www.olympics.com/en/olympic-games/paris-2024/medals](https://www.color-hex.com/color-palette/1059350)
-      
-- https://www.color-hex.com/color-palette/1059350
+    - https://www.color-hex.com/color-palette/1059350
