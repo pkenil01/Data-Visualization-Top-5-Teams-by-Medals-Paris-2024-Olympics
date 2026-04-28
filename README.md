@@ -24,7 +24,8 @@ Key Insight
 - Australia has the lowest total among the top 5 but has a relatively balanced medal distribution.
 
 Dataset Source
-- https://www.olympics.com/en/olympic-games/paris-2024/medals
+- Olympics (Olympic Games Paris 2024)
+    - https://www.olympics.com/en/olympic-games/paris-2024/medals
 
 Medal color palette (gold, silver, bronze)
 - https://www.color-hex.com/color-palette/1059350
