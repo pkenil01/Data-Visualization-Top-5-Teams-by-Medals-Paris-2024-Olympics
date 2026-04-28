@@ -16,7 +16,7 @@ Tools/Resources Used
 - Canva (Data Visualization)
 - Color-Hex (Color Palette)
 
-Key Insight
+Key Insights
 - USA dominates overall with 126 total medals, far ahead of all other teams.
 - USA and China are tied in gold medals (40 each), but the USA leads due to higher silver and bronze counts.
 - There is a large gap between China and Great Britain, showing a top-heavy distribution.
